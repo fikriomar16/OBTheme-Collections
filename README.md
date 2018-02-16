@@ -13,3 +13,6 @@ Then apply using Lxappearance or Obconf
 
 ## Kalem
 ![Kalem](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Kalem/Kalem.png)
+
+## Whitey
+![Whitey](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Whitey/Whitey.png)
