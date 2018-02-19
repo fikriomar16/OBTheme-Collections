@@ -16,3 +16,6 @@ Then apply using Lxappearance or Obconf
 
 ## Whitey
 ![Whitey](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Whitey/Whitey.png)
+
+## Ancok
+![Ancok](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Ancok/Ancok.png)
