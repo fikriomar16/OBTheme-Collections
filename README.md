@@ -19,3 +19,6 @@ Then apply using Lxappearance or Obconf
 
 ## Ancok
 ![Ancok](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Ancok/Ancok.png)
+
+## Tricky
+![Tricky](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Tricky/Tricky.png)
