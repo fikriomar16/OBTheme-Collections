@@ -22,3 +22,6 @@ Then apply using Lxappearance or Obconf
 
 ## Tricky
 ![Tricky](https://github.com/fikriomar16/OBTheme-Collections/blob/master/Tricky/Tricky.png)
+
+## License
+The code is available under the [MIT License](https://github.com/fikriomar16/OBTheme-Collections/blob/master/LICENSE.md)
